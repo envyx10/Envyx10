@@ -1,22 +1,10 @@
 <h1 align="center">Hola! 👋 Soy Pablo 🥰</h1>
 <h3 align="center">💻 Frontend Engineer Intern @ Freepik • Apasionado por el desarrollo web • En camino a ser Full Frontend Developer</h3>
 
-
-
----
-
-<div align="center">
-
-💡 Soy **Pablo**, desarrollador web de **Málaga, Andalucía, España** 🇪🇸  
-🎓 Actualmente en prácticas como **Frontend Engineer Intern** en [Freepik](https://www.freepik.com/)
-
-</div>
-
 <p align="center">
-
-  ![1738406902076](https://github.com/user-attachments/assets/a27c2778-d174-447a-9d9a-7d58fcef104d)
-
+  <img src="https://github.com/user-attachments/assets/a27c2778-d174-447a-9d9a-7d58fcef104d" alt="banner de marca" width="100%" />
 </p>
+
 
 
 #### 🚀 Mi objetivo
