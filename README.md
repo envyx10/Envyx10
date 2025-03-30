@@ -1,32 +1,54 @@
 <h1 align="center">Hola! 👋 Soy Pablo 🥰</h1>
 <h3 align="center">💻 Frontend Engineer Intern @ Freepik • Apasionado por el desarrollo web • En camino a ser Full Frontend Developer</h3>
 
+
+
+---
+
+<div align="center">
+
+💡 Soy **Pablo**, desarrollador web de **Málaga, Andalucía, España** 🇪🇸  
+🎓 Actualmente en prácticas como **Frontend Engineer Intern** en [Freepik](https://www.freepik.com/)
+
+</div>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/18a6077e-29a0-4da6-b8f0-fafb2777b6fa" alt="banner" width="100%" />
+
+  ![1738406902076](https://github.com/user-attachments/assets/a27c2778-d174-447a-9d9a-7d58fcef104d)
+
 </p>
 
----
 
-### 👨‍💻 Sobre mí
+#### 🚀 Mi objetivo
 
-Hola, soy **Pablo**, un desarrollador web de **Málaga, Andalucía, España** 🇪🇸
-
-Actualmente estoy en prácticas como  
-**Frontend Engineer Intern en [Freepik](https://www.freepik.com/)**,  
-donde sigo creciendo y formándome en tecnologías modernas del **frontend**.
+Convertirme en un **Full Frontend Developer**, porque me apasiona crear interfaces visualmente potentes  
+y ofrecer experiencias de usuario únicas y funcionales.  
+Me encanta combinar **diseño + código** para construir cosas que marquen la diferencia ✨
 
 ---
 
-🎯 **Mi meta:**  
-Convertirme en un **Full Frontend Developer**, porque me apasiona todo lo relacionado con crear interfaces atractivas y experiencias de usuario impactantes.
+#### 🎨 Background creativo
+
+- 🧑‍🎨 Experiencia como **diseñador gráfico**
+- 🖥️ Formación en **diseño web**
+- 🎯 Fuerte enfoque en **UI/UX**
 
 ---
 
-🎨 **Experiencia creativa:**  
-Tengo background como **diseñador gráfico** y formación en **diseño web**, lo que me permite cuidar el detalle visual y la usabilidad.
+#### 🛠️ Perfil técnico
 
-🛠️ **Perfil técnico:**  
-Antes de lanzarme al desarrollo, trabajé durante **5 años como técnico informático**, montando y modificando **PCs gaming de alto rendimiento** en **Versus Gamers** 🎮🖥️
+- 🧰 Trabajé 5 años como **técnico informático**
+- 🎮 Especializado en **PCs de alto rendimiento para gaming**
+- 🏢 En **Versus Gamers**, montaba y modificaba equipos personalizados
+
+---
+
+<div align="center">
+
+📌 *Actualmente combinando creatividad y tecnología para crecer como desarrollador frontend*  
+🔥 *¡Siempre listo para aprender algo nuevo!*
+
+</div>
 
 
 ### 🛠️ Tecnologías & herramientas
