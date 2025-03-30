@@ -9,14 +9,25 @@
 
 ### 👨‍💻 Sobre mí
 
-Hola, soy Pablo, un desarrollador web de **Málaga, Andalucía, España** 🇪🇸  
-Actualmente estoy en prácticas como **Frontend Engineer Intern en [Freepik](https://www.freepik.com/)**, donde sigo creciendo y formándome en tecnologías modernas del frontend.  
-Mi sueño es convertirme en un **Full Frontend Developer**, porque me encanta todo lo que tenga que ver con crear interfaces increíbles y experiencias de usuario impactantes ✨
+Hola, soy **Pablo**, un desarrollador web de **Málaga, Andalucía, España** 🇪🇸
 
-También tengo experiencia como **diseñador gráfico** y formación en **diseño web**.  
-Antes de meterme de lleno en el desarrollo, trabajé durante 5 años como **técnico informático**, montando y modificando **PCs gaming de alto rendimiento** en **Versus Gamers** 🎮🖥️
+Actualmente estoy en prácticas como  
+**Frontend Engineer Intern en [Freepik](https://www.freepik.com/)**,  
+donde sigo creciendo y formándome en tecnologías modernas del **frontend**.
 
 ---
+
+🎯 **Mi meta:**  
+Convertirme en un **Full Frontend Developer**, porque me apasiona todo lo relacionado con crear interfaces atractivas y experiencias de usuario impactantes.
+
+---
+
+🎨 **Experiencia creativa:**  
+Tengo background como **diseñador gráfico** y formación en **diseño web**, lo que me permite cuidar el detalle visual y la usabilidad.
+
+🛠️ **Perfil técnico:**  
+Antes de lanzarme al desarrollo, trabajé durante **5 años como técnico informático**, montando y modificando **PCs gaming de alto rendimiento** en **Versus Gamers** 🎮🖥️
+
 
 ### 🛠️ Tecnologías & herramientas
 
