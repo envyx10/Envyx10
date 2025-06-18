@@ -69,7 +69,7 @@ Me encanta combinar **diseño + código** para construir cosas que marquen la di
 - 🧠 Mejorando mis skills con **React & Next.js**
 - 🧩 Explorando diseño de sistemas y patrones de arquitectura frontend
 - 🛠️ Profundizando en **TypeScript** y el uso de **Tailwind CSS**
-- 📚 También me pica la curiosidad por **Node.js** y **API REST**
+- 📚 También me pica la curiosidad por **Node.js** , **Angular** y **Astro**
 
 ---
 
