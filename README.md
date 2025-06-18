@@ -2,7 +2,7 @@
 <h3 align="center">💻 Frontend Engineer Intern @ Freepik • Apasionado por el desarrollo web • En camino a ser Full Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a27c2778-d174-447a-9d9a-7d58fcef104d" alt="banner de marca" width="100%" />
+  <img src="https://github.com/user-attachments/assets/33501214-11ea-4d31-ae52-aa560165f53b" alt="banner de marca" width="100%" />
 </p>
 
 
