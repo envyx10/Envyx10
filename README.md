@@ -1,8 +1,8 @@
 <h1 align="center">Hola! 👋 Soy Pablo 🥰</h1>
-<h3 align="center">💻 Frontend Engineer Intern @ Freepik • Apasionado por el desarrollo web • En camino a ser Full Frontend Developer</h3>
+<h3 align="center">💻 Frontend developer • Apasionado por el desarrollo web • En camino a ser Full Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33501214-11ea-4d31-ae52-aa560165f53b" alt="banner de marca" width="100%" />
+  <img src="https://github.com/user-attachments/assets/8afecdba-4849-473f-98e2-867f1e5eaa53" alt="banner de marca" width="100%" />
 </p>
 
 
