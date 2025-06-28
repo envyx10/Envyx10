@@ -5,7 +5,11 @@
   <img src="https://github.com/user-attachments/assets/8afecdba-4849-473f-98e2-867f1e5eaa53" alt="banner de marca" width="100%" />
 </p>
 
-
+<p align="center">
+  <a href="github.com/envyx10" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=egdev6&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
+</p>
 
 #### 🚀 Mi objetivo
 
