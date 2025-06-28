@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋 Soy Pablo 🥰</h1>
-<h3 align="center">💻 Frontend developer • Apasionado por el desarrollo web • En camino a ser Full Frontend Developer</h3>
+<h3 align="center">💻 Junior Frontend developer • Apasionado por el desarrollo web • En camino a ser Full Frontend Developer</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8afecdba-4849-473f-98e2-867f1e5eaa53" alt="banner de marca" width="100%" />
