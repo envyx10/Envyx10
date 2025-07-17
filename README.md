@@ -1,8 +1,8 @@
 <h1 align="center">Hola! 👋 Soy Pablo 🥰</h1>
-<h3 align="center">💻 Junior Frontend developer • Apasionado por el desarrollo web • En camino a ser Full Frontend Developer</h3>
+<h3 align="center">💻 Junior Web developer • Apasionado por el desarrollo web </h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8afecdba-4849-473f-98e2-867f1e5eaa53" alt="banner de marca" width="100%" />
+  <img src="https://github.com/user-attachments/assets/b845b99c-8f31-48ca-9946-7b3fa05db6f7" alt="banner de marca" width="100%" />
 </p>
 
 <p align="center">
@@ -29,9 +29,10 @@ Me encanta combinar **diseño + código** para construir cosas que marquen la di
 
 #### 🛠️ Perfil técnico
 
-- 🧰 Trabajé 5 años como **técnico informático**
-- 🎮 Especializado en **PCs de alto rendimiento para gaming**
-- 🏢 En **Versus Gamers**, montaba y modificaba equipos personalizados
+- Trabajé 5 años como **técnico informático**
+- Especializado en **PCs de alto rendimiento para gaming**
+- En **Versus Gamers**, montaba y modificaba equipos personalizados
+- Estuve 4 meses de prácticas en Freepik como Front-end developer
 
 ---
 
@@ -68,23 +69,11 @@ Me encanta combinar **diseño + código** para construir cosas que marquen la di
 
 ---
 
-### 🚀 Lo que estoy aprendiendo ahora mismo
-
-- 🧠 Mejorando mis skills con **React & Next.js**
-- 🧩 Explorando diseño de sistemas y patrones de arquitectura frontend
-- 🛠️ Profundizando en **TypeScript** y el uso de **Tailwind CSS**
-- 📚 También me pica la curiosidad por **Node.js** , **Angular** y **Astro**
-
----
-
 ### 📱 Conecta conmigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pablo-diaz-3a064bb3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" /></a>
-  <a href="https://www.instagram.com/envyx10/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
 </p>
 
 ---
