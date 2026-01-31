@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋 Soy Pablo 🥰</h1>
-<h3 align="center">💻 Desarrollador Web • Especializándome en Big Data e Inteligencia Artificial 🤖</h3>
+<h3 align="center">💻 Desarrollador Web • FrontEnd • Inteligencia Artificial 🤖</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b845b99c-8f31-48ca-9946-7b3fa05db6f7" alt="banner de marca" width="100%" />
