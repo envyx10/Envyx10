@@ -15,8 +15,6 @@
 
 Mi pasión principal es convertirme en un **Full Frontend Developer**, creando interfaces visualmente potentes y ofreciendo experiencias de usuario únicas. Me encanta combinar **diseño + código** para construir cosas que marquen la diferencia ✨
 
-Además, mi curiosidad me ha llevado a un nuevo reto: actualmente estoy cursando una **especialización en Big Data e Inteligencia Artificial** 🧠. Busco fusionar mi creatividad en el frontend con el poder de los datos para construir aplicaciones web que no solo sean atractivas, sino también **inteligentes y predictivas**.
-
 ---
 
 #### 🎨 Background creativo
@@ -37,10 +35,6 @@ Además, mi curiosidad me ha llevado a un nuevo reto: actualmente estoy cursando
 ---
 
 <div align="center">
-
-📌 *Actualmente cursando la especialización en <strong>Big Data e IA</strong>*
-🧠 *Aprendiendo sobre: <strong>Sistemas de Big Data</strong>, <strong>Aprendizaje Automático</strong>, <strong>Modelos de IA</strong> y <strong>Programación de IA</strong>*
-🔥 *¡Combinando creatividad y datos para construir el futuro!*
 
 </div>
 
