@@ -27,7 +27,7 @@ Mi pasión principal es convertirme en un **Full Frontend Developer**, creando i
 
 #### 🛠️ Perfil técnico (Experiencia)
 
-- Trabajé 5 años como **técnico informático**
+- Trabajé 6 años como **técnico informático**
 - Especializado en **PCs de alto rendimiento para gaming**
 - En **Versus Gamers**, montaba y modificaba equipos personalizados
 - Estuve 4 meses de prácticas en Freepik como Front-end developer
