@@ -92,7 +92,3 @@ Mi pasión principal es convertirme en un **Full Frontend Developer**, creando i
 
 > Siempre tengo una pestaña con música nu-metal abierta mientras codeo 🎧  
 > Y sí, ¡soy de los que pone dark mode hasta en el microondas!
-
----
-
-<p align="center">Hecho con ❤️ por <strong>Pablo</strong> — ¡Gracias por pasarte por mi perfil! ✨</p>
