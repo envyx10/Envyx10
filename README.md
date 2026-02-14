@@ -88,7 +88,7 @@ Mi pasión principal es convertirme en un **Full Frontend Developer**, creando i
 
 ---
 
-### 🔥 Fun fact
+### 🔥 Fun facT
 
 > Siempre tengo una pestaña con música nu-metal abierta mientras codeo 🎧  
 > Y sí, ¡soy de los que pone dark mode hasta en el microondas!
