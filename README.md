@@ -1,4 +1,4 @@
-<a href="https://envy-portfolio.vercel.app/">
+<a href="https://envdevx10.netlify.app/">
   <img src="assets/banner.png" alt="Pablo Gil Díaz — Fullstack Developer @ Bettergy. Diseño × Front. Málaga, ES." width="100%" />
 </a>
 
@@ -21,8 +21,8 @@ Fullstack developer en **[Bettergy](https://www.bettergy.es)**, construyendo pla
 
 ### `02` — STACK
 
-![React](https://img.shields.io/badge/React-0b0b0b?style=flat-square&logo=react&logoColor=ff3b00) ![Next.js](https://img.shields.io/badge/Next.js-0b0b0b?style=flat-square&logo=nextdotjs&logoColor=ff3b00) ![Svelte](https://img.shields.io/badge/Svelte-0b0b0b?style=flat-square&logo=svelte&logoColor=ff3b00) ![Astro](https://img.shields.io/badge/Astro-0b0b0b?style=flat-square&logo=astro&logoColor=ff3b00) ![TypeScript](https://img.shields.io/badge/TypeScript-0b0b0b?style=flat-square&logo=typescript&logoColor=ff3b00) ![Tailwind](https://img.shields.io/badge/Tailwind-0b0b0b?style=flat-square&logo=tailwindcss&logoColor=ff3b00) ![Three.js](https://img.shields.io/badge/Three.js-0b0b0b?style=flat-square&logo=threedotjs&logoColor=ff3b00)<br/>
-![Python](https://img.shields.io/badge/Python-ece9e1?style=flat-square&logo=python&logoColor=0b0b0b) ![Django](https://img.shields.io/badge/Django-ece9e1?style=flat-square&logo=django&logoColor=0b0b0b) ![Laravel](https://img.shields.io/badge/Laravel-ece9e1?style=flat-square&logo=laravel&logoColor=0b0b0b) ![MariaDB](https://img.shields.io/badge/MariaDB-ece9e1?style=flat-square&logo=mariadb&logoColor=0b0b0b) ![Figma](https://img.shields.io/badge/Figma-ff3b00?style=flat-square&logo=figma&logoColor=0b0b0b) ![Design Systems](https://img.shields.io/badge/Design_Systems-ff3b00?style=flat-square)
+<img src="assets/stack.svg" alt="Stack: React, Next.js, Svelte, Astro, TypeScript, JavaScript, Tailwind, Three.js, HTML, Figma, Python, Django, Laravel, PHP, Node.js, MySQL, MariaDB, Supabase, Docker, Git, GitLab, Claude Code" width="100%" />
+
 
 ---
 
@@ -36,9 +36,7 @@ Fullstack developer en **[Bettergy](https://www.bettergy.es)**, construyendo pla
 | `04` | **[Pixela Figma](https://www.figma.com/design/CPQe3LpPHQXKW1AWTYJhOG/PROYECTO-PIXELA.IO?node-id=0-1)** — prototipos y sistema de diseño | Diseño | 2025 | Figma · UI/UX |
 | `05` | **[Portfolio](https://github.com/envyx10/mi-portfolio)** — suizo × brutalista, esfera WebGL con shaders GLSL | Personal | 2026 | Astro · Three.js |
 
-<p>
-  <a href="https://envy-portfolio.vercel.app/"><img src="https://img.shields.io/badge/VER_PORTFOLIO_COMPLETO_→-ff3b00?style=for-the-badge" alt="Ver portfolio completo" height="34" /></a>
-</p>
+<a href="https://envdevx10.netlify.app/"><img src="assets/portfolio-hero.webp" alt="Portada del portfolio de Pablo Gil Díaz en envdevx10.netlify.app. Pulsa para abrirlo." width="100%" /></a>
 
 ---
 
@@ -62,5 +60,3 @@ Fullstack developer en **[Bettergy](https://www.bettergy.es)**, construyendo pla
 </p>
 
 <sub>Nu-metal de fondo mientras codeo. Dark mode hasta en el microondas.</sub>
-
-<img src="assets/ticker.svg" alt="Astro ✱ Three.js ✱ TypeScript ✱ React ✱ Next.js ✱ Svelte ✱ Figma ✱ Design Systems ✱ Python ✱ Django ✱ Laravel" width="100%" />
