@@ -1,0 +1,26 @@
+name: GitLab heatmap
+
+on:
+  schedule:
+    - cron: "17 5 * * *" # a diario, 07:17 en Málaga (verano)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # Se genera en un temporal: si GitLab falla, no se pisa el SVG publicado.
+      - run: python scripts/gitlab_heatmap.py envyx10 > /tmp/heatmap.svg && mv /tmp/heatmap.svg assets/gitlab-heatmap.svg
+      - run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: actualizar heatmap de GitLab"
+          git push

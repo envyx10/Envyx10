@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="36" viewBox="0 0 1584 36" role="img" aria-label="Stack: Astro, Three.js, TypeScript, React, Next.js, Svelte, Figma, Design Systems, Python, Django, Laravel">
+  <style>
+    .t { font: 700 14px "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: .08em; fill: #0b0b0b; }
+    .run { animation: run 28s linear infinite; }
+    @keyframes run { to { transform: translateX(-2280px); } }
+    @media (prefers-reduced-motion: reduce) { .run { animation: none; } }
+  </style>
+  <rect width="1584" height="36" fill="#ff3b00"/>
+  <g class="run">
+    <text class="t" x="0" y="23" textLength="2280" lengthAdjust="spacing">ASTRO ✱ THREE.JS ✱ TYPESCRIPT ✱ REACT ✱ NEXT.JS ✱ SVELTE ✱ FIGMA ✱ DESIGN SYSTEMS ✱ PYTHON ✱ DJANGO ✱ LARAVEL ✱ ASTRO ✱ THREE.JS ✱ TYPESCRIPT ✱ REACT ✱ NEXT.JS ✱ SVELTE ✱ FIGMA ✱ DESIGN SYSTEMS ✱ PYTHON ✱ DJANGO ✱ LARAVEL ✱</text>
+    <text class="t" x="2280" y="23" textLength="2280" lengthAdjust="spacing">ASTRO ✱ THREE.JS ✱ TYPESCRIPT ✱ REACT ✱ NEXT.JS ✱ SVELTE ✱ FIGMA ✱ DESIGN SYSTEMS ✱ PYTHON ✱ DJANGO ✱ LARAVEL ✱ ASTRO ✱ THREE.JS ✱ TYPESCRIPT ✱ REACT ✱ NEXT.JS ✱ SVELTE ✱ FIGMA ✱ DESIGN SYSTEMS ✱ PYTHON ✱ DJANGO ✱ LARAVEL ✱</text>
+  </g>
+</svg>
