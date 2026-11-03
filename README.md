@@ -23,6 +23,7 @@ Fullstack developer en **[Bettergy](https://www.bettergy.es)**, construyendo pla
 
 <img src="assets/stack.svg" alt="Stack: React, Next.js, Svelte, Astro, TypeScript, JavaScript, Tailwind, Three.js, HTML, Figma, Python, Django, Laravel, PHP, Node.js, MySQL, MariaDB, Supabase, Docker, Git, GitLab, Claude Code" width="100%" />
 
+<a href="https://envdevx10.netlify.app/"><img src="assets/portfolio-hero.webp" alt="Portada del portfolio de Pablo Gil Díaz en envdevx10.netlify.app. Pulsa para abrirlo." width="100%" /></a>
 
 ---
 
