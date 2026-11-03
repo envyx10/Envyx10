@@ -23,11 +23,19 @@ Fullstack developer en **[Bettergy](https://www.bettergy.es)**, construyendo pla
 
 <img src="assets/stack.svg" alt="Stack: React, Next.js, Svelte, Astro, TypeScript, JavaScript, Tailwind, Three.js, HTML, Figma, Python, Django, Laravel, PHP, Node.js, MySQL, MariaDB, Supabase, Docker, Git, GitLab, Claude Code" width="100%" />
 
+---
+
+### `03` — MI PORTFOLIO
+
 <a href="https://envdevx10.netlify.app/"><img src="assets/portfolio-hero.webp" alt="Portada del portfolio de Pablo Gil Díaz en envdevx10.netlify.app. Pulsa para abrirlo." width="100%" /></a>
+
+<p align="center">
+  <a href="https://envdevx10.netlify.app/"><img src="https://img.shields.io/badge/Entrar_al_portfolio_%E2%86%92-0b0b0b?style=for-the-badge&logo=netlify&logoColor=ff3b00" alt="Entrar al portfolio" /></a>
+</p>
 
 ---
 
-### `03` — TRAYECTORIA
+### `04` — TRAYECTORIA
 
 ```txt
 2026 ── HOY    BETTERGY              FULLSTACK DEVELOPER
@@ -38,7 +46,7 @@ Fullstack developer en **[Bettergy](https://www.bettergy.es)**, construyendo pla
 
 ---
 
-### `04` — CONTACTO
+### `05` — CONTACTO
 
 <p>
   <a href="https://www.linkedin.com/in/envyx10/"><img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge" alt="LinkedIn" /></a>
