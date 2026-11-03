@@ -26,21 +26,7 @@ Fullstack developer en **[Bettergy](https://www.bettergy.es)**, construyendo pla
 
 ---
 
-### `03` — INDEX
-
-| Nº | Proyecto | Tipo | Año | Stack |
-|:--|:--|:--|:--|:--|
-| `01` | **MIOT** — monitorización IoT industrial: sensores, alarmas y telemetría en tiempo real | Trabajo | 2026 | Next.js · TanStack Query · Django |
-| `02` | **[DesignHub](https://designhub-psi.vercel.app/es/)** — paletas y recursos de branding para mi flujo de trabajo | Herramienta | 2026 | Astro · Svelte · TS |
-| `03` | **[Pixela](https://github.com/envyx10/Pixela)** — reseñas y valoraciones de series y películas (TFG) | Personal | 2025 | Next.js · Laravel · MariaDB |
-| `04` | **[Pixela Figma](https://www.figma.com/design/CPQe3LpPHQXKW1AWTYJhOG/PROYECTO-PIXELA.IO?node-id=0-1)** — prototipos y sistema de diseño | Diseño | 2025 | Figma · UI/UX |
-| `05` | **[Portfolio](https://github.com/envyx10/mi-portfolio)** — suizo × brutalista, esfera WebGL con shaders GLSL | Personal | 2026 | Astro · Three.js |
-
-<a href="https://envdevx10.netlify.app/"><img src="assets/portfolio-hero.webp" alt="Portada del portfolio de Pablo Gil Díaz en envdevx10.netlify.app. Pulsa para abrirlo." width="100%" /></a>
-
----
-
-### `04` — TRAYECTORIA
+### `03` — TRAYECTORIA
 
 ```txt
 2026 ── HOY    BETTERGY              FULLSTACK DEVELOPER
@@ -51,7 +37,7 @@ Fullstack developer en **[Bettergy](https://www.bettergy.es)**, construyendo pla
 
 ---
 
-### `05` — CONTACTO
+### `04` — CONTACTO
 
 <p>
   <a href="https://www.linkedin.com/in/envyx10/"><img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge" alt="LinkedIn" /></a>
